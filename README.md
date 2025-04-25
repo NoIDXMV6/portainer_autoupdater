@@ -3,6 +3,7 @@ Simple bash sctipt for auto update PortainerCE to the last LTE and remove old un
 
 ## Usage
 chmod +x update.sh
+
 ./update.sh
 
 Fun!
